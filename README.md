@@ -1,17 +1,15 @@
-
+<h1 align="center">Hi 👋, I'm Divesh Saini</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
   
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/diveshsaini/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
+ 
+  <a href="https://twitter.com/divesh009">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -21,7 +19,7 @@
   </a>
   </div>
   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
 </div>
 
 ---
@@ -59,5 +57,12 @@ I am a student at Bennett university.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=divesh0001&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![divesh0001's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=divesh0001&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divesh0001&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=divesh0001&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+### :writing_hand: Blog Posts :
 
