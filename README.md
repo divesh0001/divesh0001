@@ -8,10 +8,14 @@
   <a href="https://www.linkedin.com/in/diveshsaini/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/dixesh_01/">
+   <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+
  
   <a href="https://twitter.com/divesh009">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
 </div>
 <div id="pv" align="center">
   <a href="https://komarev.com/ghpvc/?username=divesh0001">
@@ -19,20 +23,20 @@
   </a>
   </div>
   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
+  <img  align="right" top="300" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 </div>
 
 ---
 
 ### :woman_technologist: About Me :
-I am a student at Bennett university.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+Currently, I am a 2nd year Btech cse student at Bennett university.
+- :telescope: I’m Data Science enthusiast.
 
-- :seedling: Exploring Data Science field.
+- :seedling: Exploring Myself.
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: **sainidivesh259@gmail.com**
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
