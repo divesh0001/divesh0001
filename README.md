@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/diveshsaini/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/dixesh_01/">
-   <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+<!--   <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/dixesh_01/">
+   <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a> -->
 
  
   <a href="https://twitter.com/divesh009">
