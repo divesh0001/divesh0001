@@ -63,7 +63,8 @@ Currently, I am a 2nd year Btech cse student at Bennett university.
 
 [![divesh0001's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=divesh0001&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divesh0001&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=divesh0001&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=divesh0001&theme=tokyonight&cache_seconds=30)](https://git.io/streak-stats)
+
 
 ---
 
